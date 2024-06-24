@@ -1,4 +1,4 @@
-# 안녕하세요, 저는 전상진입니다. \. 방문해주셔서 감사합니다. 
+# 안녕하세요, 저는 전상진입니다. 방문해주셔서 감사합니다. 
 
 ## 저에 대하여 소개하자면
 저는 2021년부터 명지대학교를 재학 중인 정보통신공학과 전상진입니다.
@@ -16,3 +16,12 @@
 
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=jsjin01&show_icons=true&theme=radical" alt="GitHub Stats" width="500">
+
+## Tech Stack
+### Good
+- C sharp, Unity
+### Normal
+- Python, Java, C ,C++
+### Bad
+- HTML, CSS, JavaScript, Kotlin
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
