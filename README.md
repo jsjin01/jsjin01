@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=Waving&color=auto&setion=header&fontSize=30&animation=twinkling&text=안녕하세요%20전상진입니다.&fontColor=000000&Text&stroke=20&desc=게임%20개발자를%20꿈꾸는!!&Desc&descAlign=60&Desc&descAlignY=70)
+![](https://capsule-render.vercel.app/api?type=Waving&color=2222ff&setion=header&fontSize=30&text=안녕하세요%20전상진입니다.&fontColor=000000&Text&stroke=20&desc=게임%20개발자를%20꿈꾸는!!&Desc&descAlign=60&Desc&descAlignY=70)
 
 ## 저에 대하여 소개하자면
 저는 2021년부터 명지대학교를 재학 중인 정보통신공학과 전상진입니다.
