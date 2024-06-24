@@ -9,10 +9,7 @@
 ## 진행한 프로젝트 
 
 - [Unity_Bungeo-ppong](https://github.com/jsjin01/Unity_Bungeo-ppang): <details><summery>2024년 3월 15일부터 2024년 4월 15일까지 진행한 프로젝트입니다.</summery>
-<p>
-진행과정 
-</p>
-</details>
+<p>진행과정 </p></details>
 
 - [Unity_Capstone](https://github.com/jsjin01/Unity_Capstone): 2024년 3월 1일부터 2024년 6월 14일까지 진행한 프로젝트입니다.
 - [Unity_Study_2024](https://github.com/jsjin01/Unity_Study_2024) :2024년 4월 4일부터 2024년 6월 20일까지 진행한 프로젝트입니다.
