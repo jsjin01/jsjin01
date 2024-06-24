@@ -12,3 +12,7 @@
 - [Unity_Capstone](https://github.com/jsjin01/Unity_Capstone): 2024년 3월 1일부터 2024년 6월 14일까지 진행한 프로젝트입니다.
 - [Unity_Study_2024](https://github.com/jsjin01/Unity_Study_2024) :2024년 4월 4일부터 2024년 6월 20일까지 진행한 프로젝트입니다.
 - [VUS](https://github.com/jsjin01/VUS) : 2024년 6월 17일부터 2024년 9월 1일까지 진행할 프로젝트입니다.
+
+
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jsjin01&show_icons=true&theme=radical" alt="GitHub Stats" width="500">
