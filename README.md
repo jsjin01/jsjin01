@@ -9,11 +9,11 @@
 
 ## 진행한 프로젝트 
 
-- [Unity_Bungeo-ppong](https://github.com/jsjin01/Unity_Bungeo-ppang): 2024년 3월 15일부터 2024년 4월 15일까지 진행한 프로젝트입니다.
-- [Unity_Capstone](https://github.com/jsjin01/Unity_Capstone): 2024년 3월 1일부터 2024년 6월 14일까지 진행한 프로젝트입니다.
-- [Unity_Study_2024](https://github.com/jsjin01/Unity_Study_2024) :2024년 4월 4일부터 2024년 6월 20일까지 진행한 프로젝트입니다.
-- [VUS](https://github.com/jsjin01/VUS) : 2024년 6월 17일부터 2024년 9월 1일까지 진행할 프로젝트입니다.
-
+- [Unity_Bungeo-ppong](https://github.com/jsjin01/Unity_Bungeo-ppang): 2024년 3월 15일부터 2024년 4월 15일까지 진행한 게임 제작 프로젝트입니다.
+- [Unity_Capstone](https://github.com/jsjin01/Unity_Capstone): 2024년 3월 1일부터 2024년 6월 14일까지 진행한 게임 제작 프로젝트입니다.
+- [CapstoneDesign2](https://github.com/jsjin01/CapstoneDesign2):2024년 9월 1일부터 2024년 12월 10일까지 진행한 게임 제작 프로젝트입니다.
+- [Python-Study](https://github.com/jsjin01/Python-Study): 2024년 12월 29일부터 파이썬 공부를 위해 진행한 프로젝트입니다.
+- [MCC_malicious_comment_program](https://github.com/jsjin01/MCC_malicious_comments_program): 2025년 4월1일부터 진행한 악플 감지 프로그램 제작 프로젝트입니다.
 
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=jsjin01&show_icons=true&theme=radical" alt="GitHub Stats" width="500">
